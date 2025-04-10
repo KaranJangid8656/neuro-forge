@@ -124,7 +124,7 @@ npm run dev
 
 ## 👥 Contributors
 
-Made with ❤️ by **Shivam Malge**  
+Made with ❤️ by **Karan Suthar**  
 Want to contribute? PRs are welcome!
 
 ---
